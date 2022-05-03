@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651605823 source:c:\users\usuario\documents\utn\2022\1er cuatrimestre\programación\archivos c\tp5 - arreglos paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
