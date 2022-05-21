@@ -296,18 +296,6 @@ void ejercicio6()
     //Se pide hacer una funcion que copie los datos de todos los valores del arreglo anterior que sean pares en otro arreglo del tamaño justo.
     //Usar malloc dentro de la función y retornar el arreglo o usar dos parámetros de tipo arreglo y crear el arreglo dinámico antes de la invocación.
     //Desarrolle las funciones que considere necesarias, por ejemplo, una función que cuente la cantidad de elementos pares y otra para el traspaso de los elementos.
-
-    /*int arreglo[20]={},pares[20]={};
-    cargaArregloRandom(arreglo);                                                               //FUNCION CARGARREGLOS
-    muestraArreglo(arreglo);                                                                   //FUNCION MUESTRAARREGLOS
-
-    buscarPar(arreglo,pares);
-
-    pares = (pares) malloc(100 * strlen(pares));
-
-    muestraArreglo(pares);                                                                     //FUNCION MUESTRAARREGLOS
-
-    printf("\n");*/
 }
 void ejercicio7()
 {
